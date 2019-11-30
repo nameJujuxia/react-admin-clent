@@ -1,5 +1,5 @@
 /*
-包含应用中n个接口请求函数的木块
+包含应用中n个接口请求函数的模块
 每个函数返回Promise
  */
 import ajax from "./ajax";
